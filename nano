@@ -1,0 +1,5 @@
+node_modules
+dist
+.env
+*.log
+# Any other sensitive files or build artifacts
